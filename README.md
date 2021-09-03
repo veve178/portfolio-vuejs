@@ -66,7 +66,7 @@ After that, you need to create the object type and data we will use. To do that 
 Now, you can customize it with your data through CosmicJS interface!
 ## Author
 
-👤 **Hugo Bollon**
+👤 **Lucas Choi**
 
 * Github: [@hbollon](https://github.com/hbollon)
 * LinkedIn: [@Hugo Bollon](https://www.linkedin.com/in/hugobollon/)
