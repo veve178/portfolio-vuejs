@@ -1,10 +1,8 @@
-<h1 align="center">Lucas Choi's Portfolio/dist/</h1>
+<h1 align="center">/LucasChoi/Portfolio/</h1>
 
-> Portfolio template using VueJs framework, CosmicJS API and Bootstrap
+> VueJs framework, CosmicJS API and Bootstrap
 
 <p align="center"><strong> Live demo <a href="https://veve178.github.io/portfolio-vuejs/dist/">here</a> ! </strong></p>
-
-<img align="center" src="doc/portfolio-vuejs_demo.gif" alt="portfolio-vuejs preview"></img>
 
 ---
 
@@ -18,10 +16,8 @@
 
 ## Features
 - Builded with VueJs framework ✨
-- One page layout ✨
-- Material design ✨
+- Responsive Material design / One page layout ✨
 - Bootstrap 4.5 & SCSS ✨
-- Responsive ✨
 - Animated layout ✨
 - Content managed with CosmicJS API ✨
 
@@ -48,6 +44,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 👤 **Lucas Choi**
 
-* Github: [@hbollon](https://github.com/hbollon)
-* LinkedIn: [@Hugo Bollon](https://www.linkedin.com/in/hugobollon/)
-* Portfolio: [hugobollon.me](https://www.hugobollon.me)
+* Github: [@veve178](https://github.com/veve178/portfolio-vuejs)
+* LinkedIn: [@Lucas Choi](https://www.linkedin.com/in/lucas-choi-b325a3189/)
+* Portfolio: [https://veve178.github.io/portfolio-vuejs/dist/](https://veve178.github.io/portfolio-vuejs/dist/)
