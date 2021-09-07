@@ -2,7 +2,7 @@
 
 > VueJs framework, CosmicJS API and Bootstrap
 
-<p align="center"><strong> Live demo <a href="https://veve178.github.io/portfolio-vuejs/dist/">here</a> ! </strong></p>
+<p align="center"><strong> Live demo <a href="https://veve178.github.io/portfolio-vuejs/dist/index.html">here</a> ! </strong></p>
 
 ---
 
@@ -46,4 +46,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 * Github: [@veve178](https://github.com/veve178/portfolio-vuejs)
 * LinkedIn: [@Lucas Choi](https://www.linkedin.com/in/lucas-choi-b325a3189/)
-* Portfolio: [https://veve178.github.io/portfolio-vuejs/dist/](https://veve178.github.io/portfolio-vuejs/dist/)
+* Portfolio: [https://veve178.github.io/portfolio-vuejs/dist/index.html](https://veve178.github.io/portfolio-vuejs/dist/)
