@@ -19,7 +19,7 @@ import Skills from "./components/Skills.vue";
 import Projects from "./components/Projects.vue";
 import Footer from "./components/Footer.vue";
 
-import { bucket } from "./cosmic.js";
+import cosmic from "./cosmic.js";
 
 export default {
   name: "App",
@@ -38,21 +38,23 @@ export default {
   }),
   methods: {
     fetchPosts() {
-      return bucket.getObjects({
+      return cosmic.objects.find({
         type: "portfolio-contents",
         props: "slug,title,metadata",
       });
     },
     fetchUser() {
-      return bucket.getObjects({
+      return cosmic.objects.find({
         type: "portfolio-contents",
-        q: "user-data",
+        slug: "user-data",
         props: "slug,title,metadata",
       });
     },
+    /*
     fetchObjectTypes() {
       return bucket.getObjectTypes();
     },
+    */
     findSlug(slug) {
       return this.posts.find((item) => {
         return item.slug === slug;
